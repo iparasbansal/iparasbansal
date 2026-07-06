@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I am Paras Bansal, an undergraduate at IIIT Allahabad with a strong focus on Data Structures & Algorithms and Competitive Programming. I’ve solved 800+ algorithmic problems across major platforms, developing strong problem-solving ability and a performance-driven mindset.<br><br>Alongside competitive programming, I build backend systems and work on scalable system design, applying algorithmic thinking to real-world applications using modern web technologies. I’m currently focused on system architecture, backend scalability, and writing clean, efficient code that scales.</p>
+<p align="left">I am Paras Bansal, an undergraduate at IIIT Allahabad with a strong focus on Data Structures & Algorithms and Competitive Programming. I’ve solved 1100+ algorithmic problems across major platforms, developing strong problem-solving ability and a performance-driven mindset.<br><br>Alongside competitive programming, I build backend systems and work on scalable system design, applying algorithmic thinking to real-world applications using modern web technologies. I’m currently focused on system architecture, backend scalability, and writing clean, efficient code that scales.</p>
 
 ###
 
